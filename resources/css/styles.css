@@ -61,3 +61,7 @@ h1 {
 footer li  {
     list-style: none;
 }
+
+.source {
+    font-style: italic;
+}
