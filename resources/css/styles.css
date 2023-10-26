@@ -58,6 +58,10 @@ h1 {
     background-color: yellow;
 }
 
+footer ul {
+    padding: 0;
+}
+
 footer li  {
     list-style: none;
 }
